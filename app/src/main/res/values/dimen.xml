@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_two_line_height">72dp</dimen>
+    <dimen name="list_item_two_line_top_padding">8dp</dimen>
+    <dimen name="list_item_two_line_padding">16dp</dimen>
+
+    <dimen name="primary_text_font_size">16sp</dimen>
+    <dimen name="secondary_text_font_size">14sp</dimen>
+</resources>

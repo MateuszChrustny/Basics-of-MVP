@@ -10,6 +10,4 @@ public interface ContactsView {
     void setPresenter(ContactsPresenter contactsPresenter);
 
     void showContacts(List<Contact> contacts);
-
-    View getRootView();
 }
